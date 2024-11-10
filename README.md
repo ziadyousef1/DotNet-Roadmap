@@ -334,7 +334,7 @@ Piece of Cake Dev  </a>[1:19]
                   <h6>🌏 Arabic</h6>
                   <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=21B1bnrUzCpdDFhI">
+                      <a href="https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n">
                         Mohamed El Desouki
                       </a>
                       [1 : 23]
@@ -361,7 +361,7 @@ Piece of Cake Dev  </a>[1:19]
                   <h6>🌏 Arabic</h6>
                   <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=21B1bnrUzCpdDFhI">
+                      <a href="https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n">
                         Mohamed El Desouki
                       </a>
                       [24 : 44]
