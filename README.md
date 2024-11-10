@@ -135,7 +135,7 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
                   <h6>🌏 Arabic</h6>
                   <ul>
                   <li>
-                      <a href="https://youtu.be/dHHEL3nXRuM?si=U_bnNypPQvQXeODb">
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB&si=365JRHhKXDbOO_Pb">
 Piece of Cake Dev  </a>[1:19]
                     </li>
                     <li>
@@ -170,7 +170,7 @@ Piece of Cake Dev  </a>[1:19]
                       <a href="https://youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7&si=GC0ePTwaVyRl6i2P"> Piece of Cake Dev</a><b></b> [1:16]
                     </li>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI&si=hpsYMiM-s_FYrq03">Passionate
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5&si=Tt9g0qv_-93IyS0O">Passionate
                         Coders </a><b></b>
                     </li>
                     <li>
@@ -199,11 +199,11 @@ Piece of Cake Dev  </a>[1:19]
                   <h6>🌏 Arabic</h6>
                   <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=o-yK2YlR8m6zghOn">by
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=o-yK2YlR8m6zghOn">
                         Piece of Cake Dev</a>[1:7]
                     </li>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=2EeFAbsRSmiqI7kE">Issam
+                      <a href="https://youtu.be/xE6bS6EfKAc?si=jV_K7r5jTSzlw-n6">Issam
                         Abdelnabi</a>
                     </li>
                   </ul>
@@ -307,6 +307,10 @@ Piece of Cake Dev  </a>[1:19]
                       <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=5mULtLdUI9f7Hx9b">
                         Issam Abdelnabi
                       </a>
+                    </li> <li>
+                      <a href="https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=qu33hQRojb9ulRSv">
+                         Omar Ahmed
+                      </a>
                     </li>
                     <li>
                       <a href="https://youtu.be/EzHbZjXDdKc?si=yyOL0n8ekb7vYmGq">
@@ -333,11 +337,15 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
+                    <li> 
                       <a href="https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n">
                         Mohamed El Desouki
                       </a>
                       [1 : 23]
+                    </li> <li>
+                      <a href="https://youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2&si=UcStONvfyhF0DBJa">
+                        catch Error
+                      </a>
                     </li>
                   </ul>
                   <h6>🌏 English</h6>
@@ -453,7 +461,7 @@ Piece of Cake Dev  </a>[1:19]
                   <h6>🌏 Arabic</h6>
                   <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=hBY0stidMFBlPc41">
+                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
                         DevCreed
                       </a>
                       [1 : 37]
@@ -487,7 +495,7 @@ Piece of Cake Dev  </a>[1:19]
                   <h6>🌏 Arabic</h6>
                   <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=hBY0stidMFBlPc41">
+                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
                         DevCreed
                       </a>
                       [54 : 70]
@@ -581,7 +589,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI</a> [Day 1: Day 2]
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 1: Day 2]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -612,7 +620,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI</a> [Day 3: Day 4]
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 3: Day 4]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -643,7 +651,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI</a> [Day 5: Day 6]
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 5: Day 6]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -674,7 +682,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI</a> [Day 7]
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 7]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -792,7 +800,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
            <li>
-          <a href="https://youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd&si=ayc9RZ5_odOifkF0">ITI </a> Day 9 part 2 & 3
+          <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI </a> Day 9 part 2 & 3
         </li>
           <li>
             <a href="https://youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd&si=ayc9RZ5_odOifkF0">DevCreed</a> [1:11]
@@ -899,7 +907,7 @@ IAmTimCorey</a> [1]
         <h5>🗂️ Resources</h5>
         <ul>
           <li>
-            <a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">tutorialsEU</a>
+            <a href="https://youtu.be/MSUTojuUEX4?si=bKLlz2WpIK0KpH1o">tutorialsEU</a>
           </li>
         </ul>
         <ul>
@@ -919,11 +927,11 @@ IAmTimCorey</a> [1]
         <h5>🗂️ Resources</h5>
         <ul>
           <li>
-            <a href="https://youtube.com/playlist?list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ&si=XhH9HKuAyUpeFO9w">Code It Up by AMBITIONED</a>
+            <a href="https://youtube.com/playlist?list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ&si=XhH9HKuAyUpeFO9w">Code It Up  AMBITIONED</a>
           </li>
         </ul>
         <ul>
         </ul>
       </td>
   </tbody>
-</table>
+</tab
