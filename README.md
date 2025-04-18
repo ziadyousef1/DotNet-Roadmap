@@ -20,7 +20,6 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           <li>HTML</li>
           <li>CSS</li>
           <li>Browser Developer Tools</li>
-          <li>Internet Basics</li>
         </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
@@ -33,10 +32,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           </li>
           <li>
             <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Internet Basics</a>
-          </li>
+            </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
@@ -107,6 +103,7 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
           <li><a href="#week10">Week 10</a></li>
           <li><a href="#week11">Week 11</a></li>
           <li><a href="#week12">Week 12</a></li>
+          <li><a href="#week13">Week 13</a></li>
         </ul>
       </div>
     </details>
@@ -396,12 +393,12 @@ Piece of Cake Dev  </a>[1:19]
                   </ul>
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
-                  <ul>
+                 <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [1 : 2]
+                      [1 : 10 ]
                     </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=t1vJxEVVvQnmUxWX">
@@ -433,11 +430,11 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                 <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [2 : 4]
+                      [11 : 18 ]
                     </li>
                   </ul>
                   <h6>🌏 English</h6>
@@ -460,6 +457,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=8gyoMjhPShGQgkhH">
+                        Metigator
+                      </a>
+                      [1 & 2 & 5]
+                    </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
                         DevCreed
@@ -511,6 +514,36 @@ Piece of Cake Dev  </a>[1:19]
                     <li>
                       <a href="https://youtu.be/TS5i-uPXLs8?si=mSH0rkWCSIKvzV_N">
                         Geekific</a> [1]
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+               </tr>
+                 <tr  id="week13">
+                <td>Week 13</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Records</li>
+                    <li>Nulls in C#</li>
+                    <li>Attributes</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/N2qewr8yeuI?si=j-KwY5vcT9Kw7Bq2">
+                         Metigator
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/6-AdjwK43hM?si=HATjAnrhA1vWke48">
+                         Metigator
+                      </a>
+                    </li>           <li>
+                      <a href="https://youtu.be/UkGF0SJzDN4?si=WGsixGxBzsqz1wSa">
+                         Metigator
+                      </a>
                     </li>
                   </ul>
                 </td>
@@ -588,8 +621,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 1: Day 2]
+         <li>
+            <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [1 : 20]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -619,9 +652,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 3: Day 4]
-          </li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [21 : 36]
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -650,8 +681,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 5: Day 6]
+         <li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [39:43] & 50 & [53:56] , [60:68]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -682,8 +713,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 7:8]
+         <li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a>  [69 : 85]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -795,10 +826,14 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
       <td>
         <h5>📚 Topics</h5>
         <ul>
+          <li>Identity</li>
           <li>Jwt Tokens</li>        </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
+           <li>
+          <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI </a> Day 9 part 2 & 3
+        </li>
           <li>
             <a href="https://youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd&si=ayc9RZ5_odOifkF0">DevCreed</a> [1:11]
           </li>
@@ -925,6 +960,52 @@ IAmTimCorey</a> [1]
         <ul>
           <li>
             <a href="https://youtube.com/playlist?list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ&si=XhH9HKuAyUpeFO9w">Code It Up  AMBITIONED</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td> <tr id="week44">
+      <td>Week 4</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> Configuration in ASP.NET Core </li>
+          <li>  Structured Logging  [only first 46 minutes and 40 seconds]  </li>
+          <li>  Options pattern  </li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtu.be/5GlgHV_12-k?si=mkasth2V_jFhbB7_">Rahul Nath</a>
+          </li>
+        <li>
+            <a href="https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE">IAmTimCorey</a>
+          </li>  <li>
+            <a href="https://youtu.be/SizJCLcjbOA?si=wrVpJl0L39HMr9wP">Rahul Nath</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+      </td> <tr id="week55">
+      <td>Week 5</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> HttpClient  </li>
+          <li> Broker and  Broker with External Services  </li>
+          <li> Result pattern</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLiG4KxH00ZpnmuSsIrQ3IGTUUfl_Gl1AH&si=uos9cz4-sCXdX_R6">Felipe Gavilan</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/MLBdUmDixw8?si=BBdMVOYo_Bq0xzWj">huzcodes</a>
+          </li>
+          <li>
+            <a href="https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c">Result Pattern - Medium</a>
           </li>
         </ul>
         <ul>
