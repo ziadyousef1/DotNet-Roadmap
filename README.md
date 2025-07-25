@@ -20,7 +20,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           <li>HTML</li>
           <li>CSS</li>
           <li>Browser Developer Tools</li>
-        </ul>
+                </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
@@ -32,7 +32,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           </li>
           <li>
             <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a>
-            </li>
+                  </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
@@ -103,7 +103,6 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
           <li><a href="#week10">Week 10</a></li>
           <li><a href="#week11">Week 11</a></li>
           <li><a href="#week12">Week 12</a></li>
-          <li><a href="#week13">Week 13</a></li>
         </ul>
       </div>
     </details>
@@ -390,10 +389,11 @@ Piece of Cake Dev  </a>[1:19]
                   <ul>
                     <li>LINQ</li>
                     <li>Singleton,Adapter pattern</li>
+                           <li>Nulls in C#</li>
                   </ul>
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
-                 <ul>
+                  <ul>
                     <li>
                       <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
                         Metigator
@@ -406,6 +406,11 @@ Piece of Cake Dev  </a>[1:19]
                       </a>
                       [1 : 3]
                     </li>
+                     <li>
+                      <a href="https://youtu.be/6-AdjwK43hM?si=HATjAnrhA1vWke48">
+                         Metigator
+                      </a>
+                    </li>   
                   </ul>
                   <h6>🌏 English</h6>
                   <ul>
@@ -426,15 +431,27 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>📚 Topics</h5>
                   <ul>
                     <li>LINQ</li>
+                      <li>Records </li>
+                      <li>Attributes</li>
                   </ul>
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
                  <li>
-                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                   <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
                         Metigator
                       </a>
                       [11 : 18 ]
+                    </li>
+                      <li>
+                      <a href="https://youtu.be/N2qewr8yeuI?si=j-KwY5vcT9Kw7Bq2">
+                         Metigator
+                      </a> [1]
+                      </li>
+                              <li>
+                      <a href="https://youtu.be/UkGF0SJzDN4?si=WGsixGxBzsqz1wSa">
+                         Metigator
+                      </a>[1]
                     </li>
                   </ul>
                   <h6>🌏 English</h6>
@@ -457,7 +474,7 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
+                      <li>
                       <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=8gyoMjhPShGQgkhH">
                         Metigator
                       </a>
@@ -518,37 +535,7 @@ Piece of Cake Dev  </a>[1:19]
                   </ul>
                 </td>
               </tr>
-               </tr>
-                 <tr  id="week13">
-                <td>Week 13</td>
-                <td>
-                  <h5>📚 Topics</h5>
-                  <ul>
-                    <li>Records</li>
-                    <li>Nulls in C#</li>
-                    <li>Attributes</li>
-                  </ul>
-                  <h5>🗂️ Resources</h5>
-                  <h6>🌏 Arabic</h6>
-                  <ul>
-                    <li>
-                      <a href="https://youtu.be/N2qewr8yeuI?si=j-KwY5vcT9Kw7Bq2">
-                         Metigator
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://youtu.be/6-AdjwK43hM?si=HATjAnrhA1vWke48">
-                         Metigator
-                      </a>
-                    </li>           <li>
-                      <a href="https://youtu.be/UkGF0SJzDN4?si=WGsixGxBzsqz1wSa">
-                         Metigator
-                      </a>
-                    </li>
-                  </ul>
-                </td>
-              </tr>
-            </tbody>
+                            </tbody>
           </table>
         </table>
       </table>
@@ -826,14 +813,10 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
       <td>
         <h5>📚 Topics</h5>
         <ul>
-          <li>Identity</li>
           <li>Jwt Tokens</li>        </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-           <li>
-          <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI </a> Day 9 part 2 & 3
-        </li>
           <li>
             <a href="https://youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd&si=ayc9RZ5_odOifkF0">DevCreed</a> [1:11]
           </li>
@@ -887,7 +870,8 @@ Dive into advanced  topics, backend optimizations, and advanced database techniq
         <ul>
           <li><a href="#week31">Week 1</a></li>
           <li><a href="#week32">Week 2</a></li>
-          <li><a href="#week33">Week 3</a></li>
+          <li><a href="#week33">Week 3</a></li>   
+          <li><a href="#week44">Week 4</a></li>   
        </ul>
       </div>
     </details>
@@ -943,9 +927,9 @@ IAmTimCorey</a> [1]
           </li>
         </ul>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://youtu.be/zDDnt1Ez2hc?si=-Cuku4w9P2lDxsvK">ITI</a>
-          </li>
+          </li>-->
         </ul>
       </td>
     </tr>
@@ -964,7 +948,8 @@ IAmTimCorey</a> [1]
         </ul>
         <ul>
         </ul>
-      </td> <tr id="week44">
+      </td>
+       </td> <tr id="week44">
       <td>Week 4</td>
       <td>
         <h5>📚 Topics</h5>
@@ -982,30 +967,6 @@ IAmTimCorey</a> [1]
             <a href="https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE">IAmTimCorey</a>
           </li>  <li>
             <a href="https://youtu.be/SizJCLcjbOA?si=wrVpJl0L39HMr9wP">Rahul Nath</a>
-          </li>
-        </ul>
-        <ul>
-        </ul>
-      </td>
-      </td> <tr id="week55">
-      <td>Week 5</td>
-      <td>
-        <h5>📚 Topics</h5>
-        <ul>
-          <li> HttpClient  </li>
-          <li> Broker and  Broker with External Services  </li>
-          <li> Result pattern</li>
-        </ul>
-        <h5>🗂️ Resources</h5>
-        <ul>
-          <li>
-            <a href="https://youtube.com/playlist?list=PLiG4KxH00ZpnmuSsIrQ3IGTUUfl_Gl1AH&si=uos9cz4-sCXdX_R6">Felipe Gavilan</a>
-          </li>
-          <li>
-            <a href="https://youtu.be/MLBdUmDixw8?si=BBdMVOYo_Bq0xzWj">huzcodes</a>
-          </li>
-          <li>
-            <a href="https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c">Result Pattern - Medium</a>
           </li>
         </ul>
         <ul>
